@@ -8,5 +8,4 @@ Uses the [Lodash](https://lodash.com/) Javascript library.
 
 Link to course by Stephen Grider: [Machine Learning with Javascript](https://www.udemy.com/machine-learning-with-javascript)
 
-Misc
-https://github.com/gla7/machine-learning-js/blob/master/plinko/score.js
+Misc - some useful comments in [this repo.](https://github.com/gla7/machine-learning-js/blob/master/plinko/score.js)
