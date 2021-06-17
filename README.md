@@ -1,8 +1,12 @@
 # :zap: Machine Learning With Javascript
 
 * Javascript code following a Udemy Machine Learning course.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-machine-learning?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-machine-learning?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-machine-learning?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-machine-learning?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -28,10 +32,10 @@
 
 ## :signal_strength: Technologies
 
-* [Chrome Javascript Engine v8.5](https://v8.dev/)
+* [Chrome Javascript Engine v8](https://v8.dev/)
 * [Lodash v4](https://lodash.com/) utility functions for common programming tasks using functional programming.
-* [Semantic UI v2.4](https://semantic-ui.com/) modern front-end development framework
-* [Matter.js](https://brm.io/matter-js/) 2D physics engine for the web
+* [Semantic UI v2](https://semantic-ui.com/) modern front-end development framework
+* [Matter.js](https://brm.io/matter-js/) - a 2D physics engine for the web
 
 ## :floppy_disk: Setup
 
@@ -73,7 +77,10 @@ function knn(data, point, k) {
 
 * [Stephen Grider: Machine Learning with Javascript](https://www.udemy.com/machine-learning-with-javascript) section 2: Algorithm Overview
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
-* [Useful comments on machine learning](https://github.com/gla7/machine-learning-js/blob/master/plinko/score.js)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
